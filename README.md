@@ -24,6 +24,7 @@ alex/file2.txt
 
 A user such as Jaime will have access to objects in the ```jaime``` folder. Jaime will not have access to any objects in the ```alex``` folder. 
 
+![alt graphic of implementation](https://github.com/huginandmunin/python-aws-iam-user/blob/master/python-users_small.png)
 ## Create S3 user
 
 The python script ```create_s3_user.py``` implements the IAM user creation with the following steps:
